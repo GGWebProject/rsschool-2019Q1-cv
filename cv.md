@@ -33,6 +33,7 @@ Why I want be a frontend developer? This`s good question! Some years ago I under
     2. [http://fr.sofatex.by/](http://fr.sofatex.by/) - developer(creating part of the project and support);
     3. [http://androspok.by/](http://androspok.by/) - developer(support for the project);
     4. and etc.
+
 * **Test task:**
     1. [Calendar](https://ggwebproject.github.io/Calendar/);
     2. [Some task](https://ggwebproject.github.io/taskMediaLine/);
@@ -55,6 +56,5 @@ Faculty: computer aided design.
 
 ## English
 
-English level - A2;
-
-Now I learn English at courses.
+English level - A2; 
+Now I learn English at courses and with help different apps/video lessons/[web site](https://ororo.tv/ru).
