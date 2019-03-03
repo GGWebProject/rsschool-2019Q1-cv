@@ -56,5 +56,5 @@ Faculty: computer aided design.
 
 ## English
 
-English level - A2; 
+English level - A2. <br />
 Now I learn English at courses and with help different apps/video lessons/[web site](https://ororo.tv/ru).
