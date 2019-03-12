@@ -1,0 +1,59 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', serif;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+h1,
+h2,
+figcaption {
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+h1,
+figcaption {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.visually-hidden {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+}
+
+.wrapper {
+    max-width: 1024px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+hr {
+    height: .25em;
+    padding: 0;
+    margin: 24px auto;
+    background-color: #e1e4e8;
+    border: 0;
+    max-width: 1024px;
+    width: 100%;
+}
+
+figure {
+    margin: 0px;
+}
+
+figcaption, h2 {
+    padding-bottom: 0.3em;
+    margin: 0.67em 0;
+    border-bottom: 1px solid #eaecef;
+}
+
